@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <aliyun-java-sdk-core.version>4.5.1</aliyun-java-sdk-core.version>
-    <fastjson.version>1.2.58</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
     <aliyun-java-sdk-ros.version>3.0.1</aliyun-java-sdk-ros.version>
     <aliyun-java-sdk-dysmsapi.version>1.1.0</aliyun-java-sdk-dysmsapi.version>
   </properties>
